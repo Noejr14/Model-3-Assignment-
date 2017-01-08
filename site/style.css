@@ -50,6 +50,12 @@ body {
 	outline: 0;
 	}
 
+@media (min-width: 768px) {
+	.navbar-toggle {
+		display: none;
+		}
+	}
+
 section {
 	background-color: white;
 	height: 1000px;
