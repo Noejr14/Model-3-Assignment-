@@ -29,7 +29,7 @@ body {
 	line-height: .75;
 	}
 
-.navbar-brand a:link {
+.navbar-brand a:link, .navbar-brand a:focus {
 	text-decoration: none;
 	}
 	
@@ -52,6 +52,17 @@ body {
 	
 .navbar-toggle:focus {
 	outline: 0;
+	}
+
+.navbar-toggle .icon-bar {
+	display: block;
+	width: 30px;
+	height: 5px;
+	border-radius: 3px;
+	}
+
+.navbar-toggle .icon-bar + .icon-bar {
+	margin-top: 5px;
 	}
 
 @media (min-width: 768px) {
