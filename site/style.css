@@ -28,7 +28,9 @@ body {
 	border-radius: 5px;
 	}
 	
-.navbar-toggle {
+.navbar-toggle:focus {
+	outline: 0;
+	}
 	
 	
 h1 {
