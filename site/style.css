@@ -1,6 +1,12 @@
 body {
 	background: purple;
 	}
+
+#header-nav {
+	background-color: blue;
+	border-radius: 0;
+	border: 0;
+	}
 	
 h1 {
 	color: red;
