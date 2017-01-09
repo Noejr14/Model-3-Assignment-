@@ -106,6 +106,7 @@ body {
 
 .box {
 	background-color: #d9e532;
+	height: 50%;
 	
 	}
 	
@@ -116,7 +117,6 @@ div h2 {
 
 section {
 	color: #c63157;
-	height: 50%;
 	width: 100%;
 	padding: 10px;
 	}
