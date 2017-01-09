@@ -41,7 +41,6 @@ body {
 	
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
-	border-radius: 3px;
 	}
 
 #nav-list {
@@ -57,9 +56,9 @@ body {
 	background: orange;
 	}
 	
-#nav-list a span {
+/*#nav-list a span {
 	font-size: 2em;
-	}
+	}*/
 	
 .navbar-toggle {
 	position: relative;
