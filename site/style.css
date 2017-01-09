@@ -92,11 +92,6 @@ body {
 	.navbar-toggle {
 		display: none;
 		}
-	#title {
-		font-family: "Arial Black", Gadget, sans-serif;
-		text-align: center;
-		padding: 20px;
-		}
 	}
 
 .navbar-nav {
@@ -109,8 +104,16 @@ body {
 	line-height: 20px;
 	}
 
+.box {
+	color:grey;
+	
+h2 {
+	text-align: center;
+	}
+
 section {
-	background-color: white;
-	height: 1000px;
+	color: blue;
+	height: 200px;
 	width: 100%;
+	padding: 10px;
 	}
