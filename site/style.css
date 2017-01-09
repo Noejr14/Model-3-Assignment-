@@ -105,16 +105,15 @@ body {
 	}
 
 .box {
-	background-color: grey;
+	background-color: #d9e532;
 	}
 	
 div h2 {
-	color: 
+	color: #f40470;
 	text-align: center;
 	}
 
 section {
-	color: #f40470;
 	height: 35%;
 	width: 100%;
 	padding: 10px;
