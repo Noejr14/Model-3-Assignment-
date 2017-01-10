@@ -37,7 +37,8 @@ body {
 	}
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-	border: 1px solid purple;
+	border: 1px solid yellow;
+	height: 30px;
 	}
 
 #nav-list {
