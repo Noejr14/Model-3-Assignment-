@@ -40,6 +40,12 @@ body {
 	border: 3px solid yellow;
 	border-radius: 4px;
 	}
+
+@media (min-width: 768px) {
+	.navbar-toggle {
+		display: none;
+		}
+	}
 	
 #title {
 	font-family: "Arial Black";
