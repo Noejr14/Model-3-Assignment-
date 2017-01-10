@@ -3,8 +3,10 @@ body {
 	}
 
 #title {
-	font-family: Arial;
+	font-family: "Arial Black";
+	font-size: 50px;
 	color: yellow;
+	text-align: center;
 	}
 .box {
 	background-color: #d9e532;
