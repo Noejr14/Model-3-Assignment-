@@ -46,6 +46,19 @@ body {
 		display: none;
 		}
 	}
+
+#nav-list {
+	margin-top: 10px;
+	}
+
+#nav-list a {
+	color: purple;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: yellow;
+	}
 	
 #title {
 	font-family: "Arial Black";
