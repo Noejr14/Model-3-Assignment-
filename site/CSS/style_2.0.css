@@ -48,6 +48,7 @@ body {
 	}
 
 #nav-list {
+	border-top: none;
 	margin-top: 0px;
 	}
 
